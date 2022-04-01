@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Vanda 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=333333&lines=Welcome+to+my+GitHub+profile!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 <!--
 **ChhourSovanda/ChhourSovanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
